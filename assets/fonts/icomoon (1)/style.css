@@ -14,3 +14,31 @@ Single-colored icons can be modified like so:
   color: red;
 }
 ========================================== */
+
+.icon-cart {
+  width: 0.9287109375em;
+}
+
+.icon-phone {
+  width: 0.7861328125em;
+}
+
+.icon-map {
+  width: 0.5712890625em;
+}
+
+.icon-facebook-f {
+  width: 0.587890625em;
+}
+
+.icon-instagram {
+  width: 0.857421875em;
+}
+
+.icon-close {
+  width: 0.7861328125em;
+}
+
+.icon-whatsapp {
+  width: 0.857421875em;
+}
