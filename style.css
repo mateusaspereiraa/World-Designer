@@ -82,7 +82,7 @@
 
   
   .button:hover {
-    background: var(--body-color);
+    background: var(--base-color);
   }
   
   .divider-1 {
@@ -531,7 +531,7 @@
 #contact ul li {
     display: flex;
     align-items: center;
-  }
+    }
   
 #contact ul li i {
     color: var(--title-color);
